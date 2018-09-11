@@ -1,6 +1,6 @@
 var playlist ={ artist: "megadeath", song: "1320"};
 
-unction updatePlaylist(playlist, artist, song){
+function updatePlaylist(playlist, artist, song){
   playlist[artist] = song;
   return playlist;
 }
