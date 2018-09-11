@@ -1,3 +1,5 @@
 var playlist ={ artist: "megadeath", song: "1320"};
 
-function updateplaylist
+function updateplaylist(playlist, artistname, songTitle){
+  
+}
